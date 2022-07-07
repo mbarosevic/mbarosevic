@@ -1,6 +1,6 @@
 ### Hi there 
 
-<img src="(https://github.com/mbarosevic/mbarosevic/blob/main/giphy.gif)" width="14px" alt="hi">
+<img src="https://github.com/mbarosevic/mbarosevic/blob/main/giphy.gif" width="14px" alt="hi">
 
 <!--
 **mbarosevic/mbarosevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
